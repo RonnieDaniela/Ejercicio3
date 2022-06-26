@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: #edece9;
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+header div a img {
+    width: 100%;
+}
+
+.sub {
+    color: #775548;
+    margin: 0.5%;
+}
+
+.fondo {
+    background-color: #775548;
+    color: #E1D4CF;
+    margin: 0.5%;
+}
+
+
+.alquileres {
+    color: #ef6f37;
+    font-weight: bolder;
+}
+
+a {
+    color: #ef6f37;
+    font-weight: bolder;
+}
+
+.diarios {
+    margin: 0.5%;
+}
